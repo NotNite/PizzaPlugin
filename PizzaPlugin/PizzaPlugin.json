@@ -1,0 +1,9 @@
+{
+  "Author": "NotNite",
+  "Name": "Pizza Plugin",
+  "Punchline": "Order Domino's Pizza in FFXIV.",
+  "Description": "Order Domino's Pizza in FFXIV.",
+  "InternalName": "PizzaPlugin",
+  "ApplicableVersion": "any",
+  "Tags": ["pizza"]
+}
